@@ -34,7 +34,7 @@ This plugin has been tested with the following titles:
 
 ## Installation
 1. Download `Motion2Mouse_v0.2_alpha.zip` or the direct `Motion2Mouse.dll` from the [Releases](https://github.com/Frederic1323/UEVR-Motion2Mouse-Universal-Plugin/releases) section.
-2. Unpack the `Motion2Mouse.dll` (if using the ZIP) and place it into the `plugins` folder of your game's directory (where the UEVR game profile is installed).
+2. Unpack the `Motion2Mouse.dll` (if using the ZIP) and place it into the `plugins` folder of your UEVR game plugin directory (where the UEVR game profile is installed).
 4. Start the game. The plugin will initialize automatically.
 
 ## Development & Building
