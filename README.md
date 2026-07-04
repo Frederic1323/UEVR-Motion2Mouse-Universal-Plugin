@@ -13,7 +13,7 @@ Please follow these steps for the best experience:
 - **Hardware:** Ensure a physical mouse and keyboard are connected to your PC.
 - **Windows Settings:** Disable "Enhance pointer precision" (Mouse Acceleration) in your Windows Mouse Settings.
 - **UEVR Settings (General):** Within the UEVR in-game menu, ensure that **"Always Show Cursor"** is activated.
-- **UEVR Settings (Manor Lords):** Set the UI in the UEVR menue to **maximum distance**; you can adjust the size according to your preference.
+- **UEVR Settings (Manor Lords):** Set the UI in the UEVR menue to **maximum size **; you can adjust the distance according to your preference.
 
 ## Controls & Key Mapping
 The default button assignments are currently optimized for **Manor Lords**. Please keep this in mind when testing with other titles, as the controls are hardcoded for this specific layout in this version.
