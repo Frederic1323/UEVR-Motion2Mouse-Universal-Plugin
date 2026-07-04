@@ -1,2 +1,47 @@
-# UEVR-Motion2Mouse-Universal-Plugin
-Simple UEVR plugin (Alpha 0.2) to map your right VR controller as a mouse. Optimized for Manor Lords, with experimental support for HumanitZ, SurrounDead, SpaceBourne 2 and all mouse &amp; keyboard games menus. Tested on Quest 3 via Virtual Desktop. Smooth, precise movement for desktop interactions within VR. Open source under MIT License.
+# Simple Motion2Mouse for UEVR (Alpha 0.2)
+
+A lightweight UEVR plugin that translates your right VR controller's position directly into absolute mouse movements.
+
+## Overview
+This plugin is designed for UEVR users who want to use their VR controller as a mouse substitute for desktop applications or menu interactions within a VR-injected game.
+
+## Status: Alpha 0.2
+**Important:** This project is currently in an early **Alpha (0.2)** phase. The cursor movement is already stable and working well, requiring only some final fine-tuning and minor adjustments. Optimization and compatibility work is ongoing.
+
+## Important Setup Requirements
+Please follow these steps for the best experience:
+- **Hardware:** Ensure a physical mouse and keyboard are connected to your PC.
+- **Windows Settings:** Disable "Enhance pointer precision" (Mouse Acceleration) in your Windows Mouse Settings.
+- **UEVR Settings (General):** Within the UEVR in-game menu, ensure that **"Always Show Cursor"** is activated.
+- **UEVR Settings (Manor Lords):** Set the UI in the UEVR menue to **maximum distance**; you can adjust the size according to your preference.
+
+## Controls & Key Mapping
+The default button assignments are currently optimized for **Manor Lords**. Please keep this in mind when testing with other titles, as the controls are hardcoded for this specific layout in this version.
+
+## Compatibility & Testing
+This plugin has been tested with the following titles:
+
+| Game | Status | Notes |
+| :--- | :--- | :--- |
+| **Manor Lords** | **Great** | Optimized mappings; works perfectly. |
+| **HumanitZ** | **Working** | Functional, but requires further optimization. |
+| **SurrounDead** | **Working** | Functional, but requires further optimization. |
+| **SpaceBourne 2** | **Limited** | Currently works in menus and UI only. |
+
+### Hardware & Environment
+- **Tested Setup:** Meta Quest 3 via Virtual Desktop and UEVR Nightly 1096+.
+- **General Compatibility:** Theoretically, this plugin should work with any VR headset and controllers. However, further community testing is required to confirm full compatibility across different hardware.
+
+## Installation
+1. Download `Motion2Mouse_v0.2_alpha.zip` or the direct `Motion2Mouse.dll` from the [Releases](https://github.com/Frederic1323/UEVR-Motion2Mouse-Universal-Plugin/releases) section.
+2. Unpack the `Motion2Mouse.dll` (if using the ZIP) and place it into the `plugins` folder of your game's directory (where UEVR is installed).
+3. Start the game. The plugin will initialize automatically.
+
+## Development & Building
+This project is open-source. You can view the source code in `main.cpp`. Pull requests for optimizations or better compatibility are welcome.
+
+### Dependencies
+- [UEVR Plugin API](https://github.com/praydog/UEVR)
+
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
