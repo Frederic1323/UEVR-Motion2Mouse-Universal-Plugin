@@ -29,7 +29,7 @@ This plugin has been tested with the following titles:
 | **SpaceBourne 2** | **Limited** | Currently works in menus and UI only. |
 
 ### Hardware & Environment
-- **Tested Setup:** Meta Quest 3 via Virtual Desktop and UEVR Nightly 1096+.
+- **Tested Setup:** Meta Quest 3 via Virtual Desktop,OpenXR/VDXR and UEVR Nightly 1096+. OpenVR untestet.
 - **General Compatibility:** Theoretically, this plugin should work with any VR headset and controllers. However, further community testing is required to confirm full compatibility across different hardware.
 
 ## Installation
