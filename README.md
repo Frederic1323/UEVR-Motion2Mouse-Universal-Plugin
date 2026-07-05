@@ -16,8 +16,7 @@ Please follow these steps for the best experience:
 - **UEVR Settings (Manor Lords):** Set the UI in the UEVR menue to **maximum size **; you can adjust the distance according to your preference.
 - **In-Game Settings (Manor Lords):** 
   - Set the display mode to **Borderless Fullscreen** 
-  - Disable the settings **"Clamp Mouse to Window"** and **"Screen Edge Scrolling"**
-    
+  - Disable the "Move mouse outside the window" and "Scroll at the edge of the screen" settings.
   - # Controls & Key Mapping
 The default button assignments are currently optimized for **Manor Lords**. Please keep this in mind when testing with other titles, as the controls are hardcoded for this specific layout in this version.
 
