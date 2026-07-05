@@ -15,7 +15,7 @@ Please follow these steps for the best experience:
 - **UEVR Settings (General):** Within the UEVR in-game menu, ensure that **"Always Show Cursor"** is activated.
 - **UEVR Settings (Manor Lords):** Set the UI in the UEVR menue to **maximum size **; you can adjust the distance according to your preference.
 - **In-Game Settings (Manor Lords):** 
-  - Set the display mode to **Borderless Windowed** 
+  - Set the display mode to **Borderless Fullscreen** 
   - Disable the settings **"Clamp Mouse to Window"** and **"Screen Edge Scrolling"**
     
   - # Controls & Key Mapping
